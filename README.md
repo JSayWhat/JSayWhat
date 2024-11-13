@@ -1,4 +1,8 @@
-## Hi there 👋
+## 👨‍💻 Jason Million
+
+```
+Full Stack Development 
+```
 
 <!--
 **JSayWhat/JSayWhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
