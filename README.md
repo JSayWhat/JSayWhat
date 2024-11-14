@@ -1,8 +1,15 @@
-## 👨‍💻 Jason Million
+## 👨‍💻 Jason's GitHub Hangout!
 
 ```
-Full Stack Development 
+Writing logic daily in this illogical world!  #Full Stack Development 
 ```
+#Knowledge
+Go lang enthusiast!
+Typescript fundamentalist!
+
+
+
+
 
 <!--
 **JSayWhat/JSayWhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
