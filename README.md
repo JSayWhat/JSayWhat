@@ -1,8 +1,6 @@
 ## 👨‍💻 Jason's GitHub Hangout!
 
 ```
-Writing logic daily in this illogical world!
-
 Navigating the tangled web of code while the world around us remains as unpredictable as ever.
 
 Here's to creating order amidst the chaos, one line of logic at a time.
