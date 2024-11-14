@@ -3,9 +3,10 @@
 ```
 Writing logic daily in this illogical world!  #Full Stack Development 
 ```
-#Knowledge
-Go lang enthusiast!
-Typescript fundamentalist!
+###Knowledge
+
+- **Go lang enthusiast!**
+- **Typescript fundamentalist!**
 
 
 
