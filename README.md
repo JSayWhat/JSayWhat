@@ -13,7 +13,7 @@ Here's to creating order amidst the chaos, one line of logic at a time.
 - **Go lang enthusiast!**
 - **Typescript fundamentalist!**
 - **Python...**
-- **Dart lang & FLutter!**
+- **Dart lang & Flutter!**
 
 
 
